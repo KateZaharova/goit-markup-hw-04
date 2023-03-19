@@ -193,7 +193,7 @@ color: var(--focus-color);
     background-image: var(--gradient), url(../images/index/hero-bcg.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 1440px; 
+    max-width: 1440px; 
     margin: 0 auto;
 }
 
